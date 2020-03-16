@@ -9,7 +9,7 @@ This release focus on some generic GUI stuff, that makes things appear a bit nic
 Besides this we fixed the following channels: L1, TV4Play.se and Stievie.be.
 
 [B]Framework related[/B]
--
+* Removed: The url no longer contains the full pickle of an item. Instead, it only contains a reference to an item that is located on disk (Fixes #1261)
 
 [B]GUI/Settings/Language related[/B]
 -
